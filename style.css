@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	/*background-image: url('http://oi65.tinypic.com/2rmmbl2.jpg');*/
+	background-color: rgba(208, 211, 212, 0.4);
+}
+
+.fixe{
+	border: 1px solid black;
+	width: 20%;
+	position: fixed;
+
+	
+	margin-left: 2em;
+	background-color: rgba(86, 101, 115, 0.1);
+}
+
+.clear{
+	clear: both;
+}
+
+
+.fixe nav a {
+	display: block;
+}
+
+.clear{
+	clear: both;
+}
+
